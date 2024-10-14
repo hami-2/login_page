@@ -7,6 +7,6 @@ print("Dunistech is one of the best")
 =======
 print("Dunistech is one of the best")
 print("Dunistech practice question");
-print(Dunistech practice conflict question")~
-
+print("Dunistech practice conflict question")
+print("creating conflict at dunistech academy")
                                                        
